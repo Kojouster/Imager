@@ -1,0 +1,47 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 848409ee8ba454f42a5ddff137688a27, type: 3}
+  m_Name: ReferenceImageLibrary
+  m_EditorClassIdentifier: 
+  m_GuidLow: 5647169908558664545
+  m_GuidHigh: 16824790768783684754
+  m_Images:
+  - m_SerializedGuid:
+      m_GuidLow: 5623868096637049889
+      m_GuidHigh: 18388665580379355827
+    m_SerializedTextureGuid:
+      m_GuidLow: 676839872905096747
+      m_GuidHigh: 10836142008673575530
+    m_Size: {x: 0.1, y: 0.106933594}
+    m_SpecifySize: 1
+    m_Name: boyDancing
+    m_Texture: {fileID: 2800000, guid: 42542e2b9e4709646a22ad9abeb56196, type: 3}
+  - m_SerializedGuid:
+      m_GuidLow: 4746459378378916484
+      m_GuidHigh: 2379708993482356872
+    m_SerializedTextureGuid:
+      m_GuidLow: 18362418124781222339
+      m_GuidHigh: 318326237937126443
+    m_Size: {x: 0.1, y: 0.10830078}
+    m_SpecifySize: 1
+    m_Name: girlDancing
+    m_Texture: {fileID: 2800000, guid: 08c779c369fffed42bccedde06ec6a04, type: 3}
+  - m_SerializedGuid:
+      m_GuidLow: 4917716425676503983
+      m_GuidHigh: 1546930906870417823
+    m_SerializedTextureGuid:
+      m_GuidLow: 9337294608309264282
+      m_GuidHigh: 17170292460584515800
+    m_Size: {x: 0.1, y: 0.10849609}
+    m_SpecifySize: 1
+    m_Name: monsterDancing
+    m_Texture: {fileID: 2800000, guid: a3719f9abbf98194d838b552052249ee, type: 3}
